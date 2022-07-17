@@ -1,0 +1,5 @@
+pandas==1.1.1
+Pyrebase==3.0.27
+numpy==1.18.5
+streamlit==1.5.1
+matplotlib==3.3.1
